@@ -198,3 +198,7 @@ python -m streamlit run python/app.py
 Access the live Streamlit dashboard here:
 
 [View the live dashboard](http://localhost:8501)
+
+## Dashboard Preview
+
+![Telecom Financial Health Dashboard](charts/dashboard_preview.png)
