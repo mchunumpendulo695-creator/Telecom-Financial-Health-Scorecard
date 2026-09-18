@@ -1,0 +1,5 @@
+company,average_risk_score,highest_risk_score,high_risk_years,medium_risk_years,overall_rank
+Cell C,0.2727272727272727,1,0,0,1
+Vodacom,0.6363636363636364,1,0,0,2
+MTN,0.8181818181818182,4,1,1,3
+Telkom,1.2727272727272727,4,1,1,4

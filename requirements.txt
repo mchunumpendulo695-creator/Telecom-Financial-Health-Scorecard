@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+mysql-connector-python
+altair
+openpyxl
